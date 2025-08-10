@@ -1,0 +1,13 @@
+CIFAR-10 Image Classification Results
+
+V1 – Fully Connected Network:
+Loss: 1.6276
+Accuracy: 42.13%
+
+V2 – Convolutional Neural Network (CNN):
+Loss: 0.9622
+Accuracy: 67.21%
+
+V3 – CNN + Data Augmentation:
+Loss: 0.8810
+Accuracy: 70.36%
